@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hello There✨ </h1>
 
-<!--
-**valiamik/valiamik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">⚙️  I'm an Industrial Production Engineering with an MSc in Computer Science — fluent in both human and machine languages.<br>&nbsp; I love building intelligent systems that connect hardware and software. 👾<br><br> &nbsp;  My goal is to create technology that makes complex systems smarter and simpler.  🚀   </p>
+
+<h2 align="center"><br> Tools 🛠️  </h2>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+###
+<div align="center">
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,java,c,cpp,linux,arduino,raspberrypi,atom,git,github,mysql,vscode)](https://skillicons.dev)
+</div>
+
+<div align="center">
+
+
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=twinkling&color=0:4C0099,100:00FFFF" /> 
+</div>
