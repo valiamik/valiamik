@@ -29,5 +29,5 @@
 
 
 <div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=twinkling&color=0:4C0099,100:00FFFF" /> 
+<br><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=twinkling&color=0:4C0099,100:00FFFF" /> 
 </div>
