@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">⚙️  I'm an Industrial Production Engineering with an MSc in Computer Science — fluent in both human and machine languages.<br>&nbsp; I love building intelligent systems that connect hardware and software. 👾<br><br> &nbsp;  My goal is to create technology that makes complex systems smarter and simpler.  🚀   </p>
+<p align="left">⚙️  I'm an Industrial Production Engineering with an MSc in Computer Science — fluent in both human and machine languages.<br><br> &nbsp;   I love to create technology that makes complex systems smarter and simpler. 👾  </p>
 
 <h2 align="center"><br> Tools 🛠️  </h2>
 
